@@ -124,6 +124,7 @@ h2{
 	border: 1px dashed ;
 	min-height: 550px;
 	transform: translate(20%);
+	margin-bottom: 15px;
 }
 .title {
 	margin-bottom: 20px;
@@ -184,6 +185,7 @@ padding-bottom: 20px;
 	padding: 24px 24px 41px 24px;	   
 	border-radius: 5px;
 	transition: all 0.5s ease-in-out;
+	margin-bottom: 15px;
 }
 .firstcard{
 	padding: 24px 24px 24px 24px;	
